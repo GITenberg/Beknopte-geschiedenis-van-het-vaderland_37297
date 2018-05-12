@@ -1,0 +1,27 @@
+_repo: Beknopte-geschiedenis-van-het-vaderland_37297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wijnne, J. A. (Johan Adam)
+    alias: Wijnne, Johan Adam
+    birthdate: 1822
+    deathdate: 1899
+    gutenberg_agent_id: '38756'
+    url: http://www.gutenberg.org/2009/agents/38756
+description: ''
+gutenberg_issued: '2011-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37297'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History'
+- !lcc 'DJ'
+title: Beknopte geschiedenis van het vaderland
+url: http://www.gutenberg.org/ebooks/37297
